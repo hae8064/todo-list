@@ -1,0 +1,16 @@
+.Template {
+  padding-top: 20px;
+  /*뷰 포트값에 맞춰서 전체를 보여주기위해서 100vh로 설정을 해둠*/
+  max-height: 100vh;
+}
+
+.title {
+  width: 90vw;
+  margin-left: auto;
+  margin-right: auto;
+
+  padding-bottom: 20px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: #6c567b;
+}
